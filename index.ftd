@@ -19,17 +19,17 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-logoURL: /YOUR_REPOSITORY_NAME
+logoURL: /portfoliofastn
 header-item1: Home
 header-item2: About
 header-item3: Blogs
 header-item4: Projects
-header-item1-link: /YOUR_REPOSITORY_NAME
-header-item2-link: /YOUR_REPOSITORY_NAME/about
-header-item3-link: /YOUR_REPOSITORY_NAME/blogs
-header-item4-link: /YOUR_REPOSITORY_NAME/projects
+header-item1-link: portfoliofastn
+header-item2-link: /portfoliofastn/about
+header-item3-link: /portfoliofastn/blogs
+header-item4-link: /portfoliofastn/projects
 cta-item2: Resume
-cta-item2-link: /YOUR_REPOSITORY_NAME/resume
+cta-item2-link: /portfoliofastn/resume
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -42,7 +42,7 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/RatnadeepMukherjee
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -69,7 +69,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Ratnadeep Mukherjee,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -91,8 +91,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
-
+link: mailto:ratnadeepmukherjee24@gmail.com
 -- button.primary:
 title: Schedule a Meeting
 link: YOUR_MEETING_HANLDE
@@ -108,24 +107,27 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/ratnadeep-mukherjee-8b158b21b 
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/Ratnadeep240102?t=ZLI_ovoYSvLo5FayCqC9tQ&s=09 
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/RatnadeepMukherjee
 image: $assets.files.images.github.png
 
--- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
-image: $assets.files.images.instagram.png
+
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:ratnadeepmukherjee24@gmail.com
 image: $assets.files.images.mail.png
+
+
+-- social.social-button-wrapper:
+link: https://www.threads.net/@_ratnadeep.mukherjee
+image: $assets.files.images.instagram.png
 
 -- end: ftd.row
 
@@ -170,7 +172,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Ratnadeep,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -192,7 +194,7 @@ spacing.fixed.px: 10
 
 -- button.secondary:
 title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:ratnadeepmukherjee24@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -210,23 +212,23 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/ratnadeep-mukherjee-8b158b21b 
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/Ratnadeep240102?t=ZLI_ovoYSvLo5FayCqC9tQ&s=09 
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/RatnadeepMukherjee
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://www.threads.net/@_ratnadeep.mukherjee
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: mailto:ratnadeepmukherjee24@gmail.com
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
